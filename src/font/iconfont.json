@@ -1,0 +1,58 @@
+{
+  "id": "4604117",
+  "name": "webpack",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4114124",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "4472454",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "5127494",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "6058493",
+      "name": "下拉",
+      "font_class": "drop-down",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7204913",
+      "name": "Web",
+      "font_class": "Web",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "7241490",
+      "name": "local",
+      "font_class": "local",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "15838511",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}
